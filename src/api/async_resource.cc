@@ -1,7 +1,7 @@
 #include "async_context_frame.h"
 #include "env-inl.h"
 #include "node.h"
-
+#include <stdio.h>
 namespace node {
 
 using v8::Function;
